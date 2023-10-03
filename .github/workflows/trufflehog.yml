@@ -1,4 +1,4 @@
-# Test TruffleHog
+# Test GitGuardian
 name: TruffleHog Secrets Scan
 on:
   push:
